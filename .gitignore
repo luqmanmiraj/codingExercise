@@ -1,0 +1,14 @@
+# Ignore Visual Studio Code folder
+.vscode/
+
+# Ignore IntelliJ IDEA folder
+.idea/
+
+# Ignore macOS system files that might get added to zip files
+__MACOSX/
+
+# Ignore Maven build folder
+target/
+
+# Ignore the .DS_Store file
+.DS_Store
